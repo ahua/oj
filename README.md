@@ -10,6 +10,7 @@ username:yhyan
 passwd:yanyahuapassword
 
 
-poj.org
-acyyzz
-acyyzz
+http://poj.org/
+=====
+username:acyyzz
+passwd:acyyzz
